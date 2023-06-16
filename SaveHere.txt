@@ -1,0 +1,3 @@
+282, Nova 3i, Huawei, 59, Original
+283, Iphone 12 Pro, Apple, 199, International
+284, Iphone 14 Pro Max, Apple, 1000, Original
